@@ -1,0 +1,625 @@
+==================================================
+CATEGORIA: SMARTPHONES
+==================================================
+
+Produto: Samsung Galaxy A16
+Marca: Samsung
+Preço: 15 990 MT
+Stock: 12 unidades
+Cores: Preto, Azul, Verde
+Armazenamento: 128 GB
+RAM: 6 GB
+Ecrã: 6.7" FHD+ 90Hz
+Câmara: 50 MP + 5 MP + 2 MP
+Frontal: 13 MP
+Bateria: 5000 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Samsung Galaxy A36
+Marca: Samsung
+Preço: 24 990 MT
+Stock: 5 unidades
+Cores: Preto, Branco, Lilás
+Armazenamento: 256 GB
+RAM: 8 GB
+Ecrã: 6.7" AMOLED 120Hz
+Câmara: 50 MP OIS
+Frontal: 12 MP
+Bateria: 5000 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Redmi Note 14
+Marca: Xiaomi
+Preço: 17 500 MT
+Stock: 9 unidades
+Cores: Preto, Azul, Verde
+Armazenamento: 256 GB
+RAM: 8 GB
+Ecrã: 6.67" AMOLED 120Hz
+Câmara: 108 MP
+Frontal: 20 MP
+Bateria: 5500 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Redmi 14C
+Marca: Xiaomi
+Preço: 10 990 MT
+Stock: 15 unidades
+Cores: Azul, Preto, Verde
+Armazenamento: 128 GB
+RAM: 4 GB
+Ecrã: 6.88" 120Hz
+Câmara: 50 MP
+Bateria: 5160 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Infinix Hot 60
+Marca: Infinix
+Preço: 11 500 MT
+Stock: 18 unidades
+Cores: Preto, Dourado, Azul
+Armazenamento: 128 GB
+RAM: 8 GB
+Ecrã: 6.78" 120Hz
+Câmara: 50 MP
+Bateria: 5200 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Infinix Note 50
+Marca: Infinix
+Preço: 19 500 MT
+Stock: 7 unidades
+Cores: Preto, Cinzento
+Armazenamento: 256 GB
+RAM: 8 GB
+Ecrã: AMOLED 120Hz
+Câmara: 64 MP
+Bateria: 5000 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Tecno Spark 40
+Marca: Tecno
+Preço: 9 990 MT
+Stock: 22 unidades
+Cores: Azul, Preto, Branco
+Armazenamento: 128 GB
+RAM: 4 GB
+Ecrã: 6.67"
+Câmara: 50 MP
+Bateria: 5000 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Tecno Camon 40
+Marca: Tecno
+Preço: 18 500 MT
+Stock: 10 unidades
+Cores: Verde, Preto
+Armazenamento: 256 GB
+RAM: 8 GB
+Ecrã: AMOLED 120Hz
+Câmara: 50 MP
+Bateria: 5200 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: iPhone 13
+Marca: Apple
+Preço: 39 990 MT
+Stock: 4 unidades
+Cores: Midnight, Blue, Pink, White
+Armazenamento: 128 GB
+RAM: 4 GB
+Ecrã: 6.1" Super Retina OLED
+Câmara: 12 MP + 12 MP
+Frontal: 12 MP
+Bateria: 3240 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: iPhone 16
+Marca: Apple
+Preço: 79 990 MT
+Stock: 2 unidades
+Cores: Preto, Branco, Rosa, Azul
+Armazenamento: 256 GB
+RAM: 8 GB
+Ecrã: OLED 120Hz
+Câmara: 48 MP
+Frontal: 12 MP
+Bateria: 3561 mAh
+Garantia: 12 meses
+
+--------------------------------------------------
+
+==================================================
+CATEGORIA: LAPTOPS
+==================================================
+
+Produto: MacBook Air M2
+Marca: Apple
+Preço: 95 000 MT
+Stock: 3 unidades
+Cores: Prateado, Cinzento Espacial
+Armazenamento: 256 GB SSD
+RAM: 8 GB
+Ecrã: 13.6" Liquid Retina
+Processador: Apple M2
+Sistema Operativo: macOS
+Bateria: 18 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: MacBook Pro 14 M3
+Marca: Apple
+Preço: 165 000 MT
+Stock: 2 unidades
+Cores: Cinzento Espacial, Prateado
+Armazenamento: 512 GB SSD
+RAM: 18 GB
+Ecrã: 14.2" Liquid Retina XDR 120Hz
+Processador: Apple M3 Pro
+Sistema Operativo: macOS
+Bateria: 22 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Asus Vivobook 15
+Marca: Asus
+Preço: 42 000 MT
+Stock: 8 unidades
+Cores: Preto, Prateado
+Armazenamento: 512 GB SSD
+RAM: 16 GB
+Ecrã: 15.6" FHD
+Processador: Intel Core i5-1335U
+Sistema Operativo: Windows 11 Home
+Bateria: 6 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Lenovo IdeaPad Slim 3
+Marca: Lenovo
+Preço: 35 000 MT
+Stock: 12 unidades
+Cores: Cinza Ártico, Azul Abyss
+Armazenamento: 256 GB SSD
+RAM: 8 GB
+Ecrã: 15.6" FHD
+Processador: AMD Ryzen 5 7520U
+Sistema Operativo: Windows 11 Home
+Bateria: 8 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: HP Victus Gaming 15
+Marca: HP
+Preço: 78 000 MT
+Stock: 4 unidades
+Cores: Preto Mica
+Armazenamento: 512 GB SSD
+RAM: 16 GB
+Ecrã: 15.6" FHD 144Hz
+Processador: Intel Core i5-12450H / RTX 3050
+Sistema Operativo: Windows 11 Home
+Bateria: 5 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Dell Inspiron 15
+Marca: Dell
+Preço: 48 000 MT
+Stock: 6 unidades
+Cores: Platina Prateada
+Armazenamento: 512 GB SSD
+RAM: 16 GB
+Ecrã: 15.6" FHD 120Hz
+Processador: Intel Core i5-1335U
+Sistema Operativo: Windows 11 Home
+Bateria: 7 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Acer Aspire 5
+Marca: Acer
+Preço: 38 500 MT
+Stock: 10 unidades
+Cores: Prateado
+Armazenamento: 512 GB SSD
+RAM: 8 GB
+Ecrã: 14" FHD
+Processador: Intel Core i5-1235U
+Sistema Operativo: Windows 11 Home
+Bateria: 7 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: MSI Thin GF63
+Marca: MSI
+Preço: 69 000 MT
+Stock: 5 unidades
+Cores: Preto Escovado
+Armazenamento: 512 GB SSD
+RAM: 16 GB
+Ecrã: 15.6" FHD 144Hz
+Processador: Intel Core i5-12450H / RTX 2050
+Sistema Operativo: Windows 11 Home
+Bateria: 4 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Lenovo Legion 5
+Marca: Lenovo
+Preço: 115 000 MT
+Stock: 3 unidades
+Cores: Storm Grey
+Armazenamento: 1 TB SSD
+RAM: 16 GB
+Ecrã: 15.6" WQHD 165Hz
+Processador: AMD Ryzen 7 / RTX 4060
+Sistema Operativo: Windows 11 Home
+Bateria: 6 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: HP Pavilion x360
+Marca: HP
+Preço: 55 000 MT
+Stock: 7 unidades
+Cores: Prateado Ouro
+Armazenamento: 512 GB SSD
+RAM: 8 GB
+Ecrã: 14" FHD Touch
+Processador: Intel Core i5-1335U
+Sistema Operativo: Windows 11 Home
+Bateria: 8 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+==================================================
+CATEGORIA: SMARTWATCHES
+==================================================
+
+Produto: Apple Watch SE (2ª Gen)
+Marca: Apple
+Preço: 22 000 MT
+Stock: 6 unidades
+Cores/Acabamento: Prateado, Meia-noite
+Ecrã: Retina OLED
+Autonomia: Até 18 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Apple Watch Series 10
+Marca: Apple
+Preço: 45 000 MT
+Stock: 3 unidades
+Cores/Acabamento: Titânio, Preto Espacial
+Ecrã: OLED Grande
+Autonomia: Até 18 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Samsung Galaxy Watch 7
+Marca: Samsung
+Preço: 19 990 MT
+Stock: 7 unidades
+Cores/Acabamento: Verde, Creme, Prateado
+Ecrã: Super AMOLED
+Autonomia: Até 40 horas
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Huawei Watch GT 4
+Marca: Huawei
+Preço: 14 500 MT
+Stock: 10 unidades
+Cores/Acabamento: Castanho, Preto, Aço
+Ecrã: AMOLED 1.43"
+Autonomia: Até 14 dias
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Xiaomi Watch S3
+Marca: Xiaomi
+Preço: 12 990 MT
+Stock: 9 unidades
+Cores/Acabamento: Preto, Prateado
+Ecrã: AMOLED 1.43" 60Hz
+Autonomia: Até 15 dias
+Garantia: 12 meses
+
+--------------------------------------------------
+
+==================================================
+CATEGORIA: CONSOLAS
+==================================================
+
+Produto: PlayStation 5 Slim
+Marca: Sony
+Preço: 48 000 MT
+Stock: 5 unidades
+Armazenamento: 1 TB SSD
+Especificações: Com Leitor de Discos Blu-ray
+Inclui: DualSense Branco
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Xbox Series X
+Marca: Xbox
+Preço: 52 000 MT
+Stock: 3 unidades
+Armazenamento: 1 TB SSD
+Especificações: Resolução 4K Nativa
+Inclui: Comando sem fios preto
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Nintendo Switch OLED
+Marca: Nintendo
+Preço: 24 000 MT
+Stock: 6 unidades
+Armazenamento: 64 GB interno
+Especificações: Ecrã OLED 7 polegadas
+Inclui: Comandos Joy-Con Neon
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: PlayStation 5 Pro
+Marca: Sony
+Preço: 75 000 MT
+Stock: 2 unidades
+Armazenamento: 2 TB SSD
+Especificações: Desempenho Gráfico Avançado
+Inclui: DualSense Branco
+Garantia: 12 meses
+
+--------------------------------------------------
+
+Produto: Xbox Series S
+Marca: Xbox
+Preço: 28 000 MT
+Stock: 8 unidades
+Armazenamento: 512 GB SSD
+Especificações: 100% Digital
+Inclui: Comando sem fios branco
+Garantia: 12 meses
+
+--------------------------------------------------
+
+==================================================
+CATEGORIA: JOGOS
+==================================================
+
+Produto: EA Sports FC 25
+Editora: EA Sports
+Preço: 4 500 MT
+Stock: 15 unidades
+Plataforma: PS5 / PS4 / Xbox
+Género: Futebol de Alta Competição
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: God of War Ragnarök
+Editora: Sony Interactive
+Preço: 3 990 MT
+Stock: 10 unidades
+Plataforma: PS5 / PS4
+Género: Ação / Aventura Épica
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Marvel's Spider-Man 2
+Editora: Sony Interactive
+Preço: 4 200 MT
+Stock: 8 unidades
+Plataforma: PS5
+Género: Mundo Aberto Super-herói
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Grand Theft Auto V
+Editora: Rockstar Games
+Preço: 3 500 MT
+Stock: 12 unidades
+Plataforma: PS5 / PS4 / Xbox
+Género: Ação / Mundo Aberto
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Cyberpunk 2077 Ultimate
+Editora: CD Projekt Red
+Preço: 4 000 MT
+Stock: 6 unidades
+Plataforma: PS5 / Xbox Series X
+Género: RPG Futurista
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Hogwarts Legacy
+Editora: Warner Bros
+Preço: 3 800 MT
+Stock: 9 unidades
+Plataforma: PS5 / PS4 / Xbox / Switch
+Género: RPG de Ação no Mundo Mágico
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Mortal Kombat 1
+Editora: Warner Bros
+Preço: 4 100 MT
+Stock: 7 unidades
+Plataforma: PS5 / Xbox Series X / Switch
+Género: Luta Competitiva
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: The Last of Us Part I
+Editora: Sony Interactive
+Preço: 4 300 MT
+Stock: 5 unidades
+Plataforma: PS5
+Género: Sobrevivência / Narrativa
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Super Mario Bros. Wonder
+Editora: Nintendo
+Preço: 3 990 MT
+Stock: 11 unidades
+Plataforma: Nintendo Switch
+Género: Plataformas Clássico
+Formato: Físico (Cartucho)
+
+--------------------------------------------------
+
+Produto: The Legend of Zelda: Tears of the Kingdom
+Editora: Nintendo
+Preço: 4 500 MT
+Stock: 8 unidades
+Plataforma: Nintendo Switch
+Género: Aventura / Exploração
+Formato: Físico (Cartucho)
+
+--------------------------------------------------
+
+Produto: Call of Duty: Black Ops 6
+Editora: Activision
+Preço: 4 800 MT
+Stock: 14 unidades
+Plataforma: PS5 / PS4 / Xbox
+Género: Tiro em Primeira Pessoa
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Minecraft
+Editora: Mojang Studios
+Preço: 2 500 MT
+Stock: 20 unidades
+Plataforma: Todas as Plataformas
+Género: Sandbox / Construção
+Formato: Físico / Digital
+
+--------------------------------------------------
+
+Produto: NBA 2K25
+Editora: 2K Sports
+Preço: 4 300 MT
+Stock: 9 unidades
+Plataforma: PS5 / PS4 / Xbox
+Género: Simulação de Basquetebol
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Resident Evil 4 Remake
+Editora: Capcom
+Preço: 3 900 MT
+Stock: 7 unidades
+Plataforma: PS5 / PS4 / Xbox Series X
+Género: Terror / Sobrevivência
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Tekken 8
+Editora: Bandai Namco
+Preço: 4 200 MT
+Stock: 6 unidades
+Plataforma: PS5 / Xbox Series X
+Género: Luta Next-Gen
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Elden Ring: Shadow of the Erdtree Edition
+Editora: Bandai Namco
+Preço: 4 600 MT
+Stock: 10 unidades
+Plataforma: PS5 / Xbox Series X
+Género: RPG de Ação Desafiante
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Gran Turismo 7
+Editora: Sony Interactive
+Preço: 4 100 MT
+Stock: 8 unidades
+Plataforma: PS5 / PS4
+Género: Simulador de Corrida Realista
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Horizon Forbidden West
+Editora: Sony Interactive
+Preço: 3 800 MT
+Stock: 6 unidades
+Plataforma: PS5 / PS4
+Género: Ação / Ficção Científica
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Street Fighter 6
+Editora: Capcom
+Preço: 4 000 MT
+Stock: 7 unidades
+Plataforma: PS5 / PS4 / Xbox Series X
+Género: Luta Arcade
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
+Produto: Assassin's Creed Shadows
+Editora: Ubisoft
+Preço: 4 700 MT
+Stock: 12 unidades
+Plataforma: PS5 / Xbox Series X
+Género: Ação / Steal Feudal Japan
+Formato: Físico (Blu-ray)
+
+--------------------------------------------------
+
