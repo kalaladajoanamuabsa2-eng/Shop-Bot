@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Login Admin</title>
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <style>
+
+        body{
+            margin:0;
+            font-family:Arial;
+            background:#dfe9e8;
+
+            display:flex;
+            justify-content:center;
+            align-items:center;
+
+            height:100vh;
+        }
+
+        .login-box{
+
+            background:white;
+
+            width:90%;
+            max-width:400px;
+
+            padding:30px;
+
+            border-radius:15px;
+
+            box-shadow:0 0 15px rgba(0,0,0,0.1);
+        }
+
+        h1{
+            text-align:center;
+            color:#0f766e;
+        }
+
+        input{
+
+            width:100%;
+
+            padding:15px;
+
+            margin-top:15px;
+
+            border-radius:10px;
+
+            border:1px solid #ccc;
+
+            font-size:16px;
+
+            box-sizing:border-box;
+        }
+
+        button{
+
+            width:100%;
+
+            padding:15px;
+
+            margin-top:20px;
+
+            border:none;
+
+            border-radius:10px;
+
+            background:#0f766e;
+
+            color:white;
+
+            font-size:16px;
+
+            cursor:pointer;
+        }
+
+        .error{
+
+            color:red;
+
+            text-align:center;
+
+            margin-top:15px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="login-box">
+
+        <h1>
+            Admin Login
+        </h1>
+
+        <form method="POST">
+
+            <input
+                type="password"
+                name="password"
+                placeholder="Senha do admin"
+            >
+
+            <button type="submit">
+                Entrar
+            </button>
+
+        </form>
+
+        {% if error %}
+
+            <div class="error">
+                {{ error }}
+            </div>
+
+        {% endif %}
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>AI Shop Bot</title>
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <style>
+
+        body{
+            margin:0;
+            font-family:Arial;
+            background:#f2f2f2;
+            color:#222;
+        }
+
+        /* =========================
+           LANDING PAGE
+        ========================= */
+
+        .hero{
+
+            background:#0f766e;
+
+            color:white;
+
+            padding:60px 20px;
+
+            text-align:center;
+        }
+
+        .hero h1{
+
+            font-size:42px;
+
+            margin-bottom:20px;
+        }
+
+        .hero p{
+
+            font-size:20px;
+
+            max-width:700px;
+
+            margin:auto;
+
+            line-height:1.6;
+        }
+
+        .start-btn{
+
+            display:inline-block;
+
+            margin-top:30px;
+
+            padding:18px 35px;
+
+            background:white;
+
+            color:#0f766e;
+
+            text-decoration:none;
+
+            font-size:20px;
+
+            border-radius:12px;
+
+            font-weight:bold;
+        }
+
+        /* =========================
+           FEATURES
+        ========================= */
+
+        .features{
+
+            padding:50px 20px;
+
+            text-align:center;
+        }
+
+        .features h2{
+
+            font-size:34px;
+
+            margin-bottom:40px;
+        }
+
+        .feature-grid{
+
+            display:grid;
+
+            grid-template-columns:
+            repeat(
+                auto-fit,
+                minmax(250px,1fr)
+            );
+
+            gap:20px;
+
+            max-width:1000px;
+
+            margin:auto;
+        }
+
+        .feature{
+
+            background:white;
+
+            padding:25px;
+
+            border-radius:15px;
+
+            box-shadow:
+            0 4px 10px
+            rgba(0,0,0,0.1);
+        }
+
+        .feature h3{
+
+            margin-bottom:15px;
+
+            color:#0f766e;
+        }
+
+        .feature p{
+
+            line-height:1.6;
+        }
+    
+    
+    /*Wassup*/
+    .whatsapp-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:12px 20px;
+    background:#25D366;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+.whatsapp-btn:hover{
+    opacity:0.9;
+}
+
+        /* =========================
+           CHAT SECTION
+        ========================= */
+    
+        .chat-section{
+
+            padding:40px 15px;
+        }
+
+        .chat-container{
+
+            width:100%;
+
+            max-width:700px;
+
+            height:80vh;
+
+            margin:auto;
+
+            display:flex;
+
+            flex-direction:column;
+
+            background:white;
+
+            border-radius:20px;
+
+            overflow:hidden;
+
+            box-shadow:
+            0 5px 15px
+            rgba(0,0,0,0.15);
+        }
+
+        .header{
+
+            background:#0f766e;
+
+            color:white;
+
+            padding:18px;
+
+            text-align:center;
+
+            font-size:24px;
+
+            font-weight:bold;
+        }
+
+        .chat-box{
+
+            flex:1;
+
+            overflow-y:auto;
+
+            padding:15px;
+
+            display:flex;
+
+            flex-direction:column;
+
+            gap:15px;
+        }
+
+        .message{
+
+            max-width:75%;
+
+            padding:12px;
+
+            border-radius:15px;
+
+            line-height:1.5;
+        }
+
+        .user{
+
+            align-self:flex-end;
+
+            background:#0f766e;
+
+            color:white;
+        }
+
+        .bot{
+
+            align-self:flex-start;
+
+            background:#f2f2f2;
+        }
+
+        .input-area{
+
+            display:flex;
+
+            padding:10px;
+
+            border-top:1px solid #ddd;
+        }
+
+        input{
+
+            flex:1;
+
+            padding:15px;
+
+            border-radius:10px;
+
+            border:1px solid #ccc;
+
+            font-size:16px;
+
+            outline:none;
+        }
+
+        button{
+
+            margin-left:10px;
+
+            padding:15px 20px;
+
+            border:none;
+
+            background:#0f766e;
+
+            color:white;
+
+            border-radius:10px;
+
+            font-size:16px;
+
+            cursor:pointer;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- =========================
+         HERO
+    ========================== -->
+
+    <section class="hero">
+
+        <h1>
+            AI Shop Bot
+        </h1>
+
+        <p>
+            Um assistente inteligente
+            que responde clientes
+            automaticamente 24h por dia.
+        </p>
+
+        <a
+            href="#chat"
+            class="start-btn"
+        >
+            Começar Agora
+        </a>
+
+    </section>
+
+    <!-- =========================
+         FEATURES
+    ========================== -->
+
+    <section class="features">
+
+        <h2>
+            O que a IA faz?
+        </h2>
+
+        <div class="feature-grid">
+
+            <div class="feature">
+
+                <h3>
+                     📦 Informações
+                </h3>
+
+                <p>
+                    Responde perguntas
+                    sobre produtos,
+                    preços e serviços.
+                </p>
+
+            </div>
+
+            <div class="feature">
+
+                <h3>
+                    📍 Localização
+                </h3>
+
+                <p>
+                    Ajuda clientes
+                    com localização
+                    e horários.
+                </p>
+
+            </div>
+
+            <div class="feature">
+
+                <h3>
+                    ⚡ Atendimento 24h
+                </h3>
+
+                <p>
+                    Responde clientes
+                    automaticamente
+                    a qualquer hora.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- =========================
+         CHAT
+    ========================== -->
+
+    <!-- WhatsApp -->
+    
+    <section class="chat-section" id="chat">    
+    <a href="/whatsapp"
+   class="whatsapp-btn"
+   target="_blank">
+    💬 Falar no WhatsApp
+</a>   
+        
+     
+
+        <div class="chat-container">
+
+            <div class="header">
+                🤖 AI Shop Bot
+            </div>
+
+            <div
+                class="chat-box"
+                id="chat-box"
+            ></div>
+
+            <div class="input-area">
+
+                <input
+                    type="text"
+                    id="message"
+                    placeholder="Pergunte algo..."
+                >
+
+                <button onclick="sendMessage()">
+                    Enviar
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <script>
+
+        async function sendMessage(){
+
+            let input =
+                document.getElementById(
+                    "message"
+                );
+
+            let message =
+                input.value;
+
+            if(message.trim() === ""){
+                return;
+            }
+
+            let chatBox =
+                document.getElementById(
+                    "chat-box"
+                );
+
+            // mensagem usuário
+            chatBox.innerHTML += `
+                <div class="message user">
+                    ${message}
+                </div>
+            `;
+
+            input.value = "";
+
+            // loading
+            chatBox.innerHTML += `
+                <div
+                    class="message bot"
+                    id="loading"
+                >
+                    AI Lodge Bot está digitando...
+                </div>
+            `;
+
+            chatBox.scrollTop =
+                chatBox.scrollHeight;
+
+            let response = await fetch(
+                "/chat",
+                {
+                    method:"POST",
+
+                    headers:{
+                        "Content-Type":
+                        "application/json"
+                    },
+
+                    body:JSON.stringify({
+                        message:message
+                    })
+                }
+            );
+
+            let data =
+                await response.json();
+
+            document
+            .getElementById(
+                "loading"
+            ).remove();
+
+            chatBox.innerHTML += `
+                <div class="message bot">
+                    ${data.reply}
+                </div>
+            `;
+
+            chatBox.scrollTop =
+                chatBox.scrollHeight;
+        }
+
+        // ENTER
+        document
+        .getElementById("message")
+        .addEventListener(
+            "keypress",
+            function(event){
+
+                if(event.key === "Enter"){
+                    sendMessage();
+                }
+
+            }
+        );
+
+    </script>
+
+</body>
+
+</html>

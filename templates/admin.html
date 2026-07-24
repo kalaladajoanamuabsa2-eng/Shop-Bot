@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>AI Shop Admin</title>
+
+<style>
+
+body{
+    font-family:Arial;
+    background:#f2f2f2;
+    padding:20px;
+}
+
+h1{
+    color:#0f766e;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+}
+
+textarea{
+    width:100%;
+    height:220px;
+    font-size:15px;
+}
+
+button{
+    margin-top:15px;
+    padding:12px 25px;
+    background:#0f766e;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>AI Shop Admin Panel</h1>
+
+<form action="/save" method="POST">
+
+<div class="card">
+
+<h2>🏪 Informações da Loja</h2>
+
+<textarea name="info">{{ info }}</textarea>
+
+</div>
+
+<div class="card">
+
+<h2>📦 Produtos</h2>
+
+<textarea name="products">{{ products }}</textarea>
+
+</div>
+
+<div class="card">
+
+<h2>❓ FAQ</h2>
+
+<textarea name="faq">{{ faq }}</textarea>
+
+</div>
+
+<button type="submit">
+
+💾 Guardar Alterações
+
+</button>
+
+</form>
+
+</body>
+</html>
